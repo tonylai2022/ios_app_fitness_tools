@@ -17,6 +17,8 @@ The BMI Calculator helps users quickly and accurately calculate their BMI based 
   - Height: User can enter their height in either feet/inches or centimeters.
   - Weight: User can choose between pounds or kilograms for their weight input.
 - **Functionality**: Upon entering their height and weight, users can calculate their BMI, which will display immediately in the app.
+
+<img src="./bmi.png" alt="BMI" width="300"/>
   
 ### 2. Breathing Exercise Tool
 
@@ -29,6 +31,8 @@ The Breathing Exercise tool provides guided breathing exercises with customizabl
   - Pace: Adjust the pace in seconds per beat for a slower or faster breathing cycle.
   - Cycles: Set the total number of breathing cycles.
 - **Functionality**: Once the user has set their preferred values, they can start the exercise, and the app will guide them through each phase (inhale, hold, exhale) for a calming and mindful experience.
+
+<img src="./breath.png" alt="breath" width="300"/>
 
 ## Installation
 
