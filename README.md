@@ -36,7 +36,7 @@ To run the `ios_app_fitness_tools` on your device, follow these steps:
 
 1. Clone the repository to your local machine.
    ```bash
-   git clone [https://github.com/tonylai2022/ios_app_fitness_tools.git]
+   git clone https://github.com/tonylai2022/ios_app_fitness_tools.git
 2. Open the project in Xcode.
 
 3. Build and run the app on a simulator or a connected device.
